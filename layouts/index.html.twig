@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="{{ site.language }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.description }}">
+  <meta name="theme-color" content="#f2eee5">
+  <title>{{ page.title }} · {{ site.title }}</title>
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="wordmark" href="#top" aria-label="Baraka Kenny, accueil"><span class="wordmark-icon">B.</span><span>BARAKA KENNY</span></a>
+    <nav aria-label="Navigation principale">
+      <a href="#a-propos">À propos</a>
+      <a href="#projets">Projets</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <a class="header-link" href="https://github.com/baraka-goma" aria-label="Profil GitHub de Baraka Kenny">GITHUB <span aria-hidden="true">↗</span></a>
+  </header>
+
+  <main id="top">
+    <div class="page-grid">
+      <aside class="side-note" aria-hidden="true"><span>PORTFOLIO PERSONNEL</span><span class="side-line"></span><span>01 — 03</span></aside>
+      <article class="page-content">
+        {{ page.content }}
+      </article>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <span>BARAKA KENNY</span>
+    <span>FAIT AVEC CURIOSITÉ · <a href="https://github.com/baraka-goma">GITHUB ↗</a></span>
+    <a href="#top">RETOUR EN HAUT ↑</a>
+  </footer>
+</body>
+</html>

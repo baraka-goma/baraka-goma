@@ -1,16 +1,14 @@
-## Hi there 👋
+# Baraka Kenny
 
-<!--
-**baraka-goma/baraka-goma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="180" src="bk.jpeg" alt="Portrait de Baraka Kenny">
 
-Here are some ideas to get you started:
+Je construis des projets personnels, j’explore de nouvelles idées et j’apprends en faisant. Ce profil rassemble mon travail et son évolution, au fil des projets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### En ce moment
+
+- Je développe mon portfolio personnel.
+- Je prépare la présentation de mes projets et de mon parcours.
+
+### Explorer
+
+Découvre mes dépôts sur [GitHub](https://github.com/baraka-goma?tab=repositories).
